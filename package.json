@@ -1,0 +1,14 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
