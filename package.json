@@ -6,8 +6,16 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonstevet/detach-last-elements-array.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js"
+  ],
+  "author": "JonStevet",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.4.3"
   }
